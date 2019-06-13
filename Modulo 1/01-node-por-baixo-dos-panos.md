@@ -23,3 +23,4 @@ Através do NodeJS Binding, o ecossistema NodeJS converte o código JavaScript e
 
 Após a interpretação realizada pela Engine V8 e pela conversão do código para C++, as instruções entram na pilha de eventos conhecida como Event Loop. Essa pilha é criada dentro da Libuv, visando a execução do código de maneira otimizada através de threads.
 
+[Próxima Página :point_right:](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/02-trabalhando-com-callbacks.md)
