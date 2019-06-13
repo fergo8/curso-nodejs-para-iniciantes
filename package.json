@@ -1,0 +1,19 @@
+{
+  "name": "curso-nodebr-org",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS para iniciantes, promovido pela comunidade NodeBR.",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fergo8/curso-nodejs-para-iniciantes.git"
+  },
+  "author": "Jefferson Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fergo8/curso-nodejs-para-iniciantes/issues"
+  },
+  "homepage": "https://github.com/fergo8/curso-nodejs-para-iniciantes#readme"
+}
