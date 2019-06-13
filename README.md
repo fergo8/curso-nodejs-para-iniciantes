@@ -25,4 +25,6 @@ Para facilitar a navegação entre anotações organizei todo o conteúdo em sub
 
 Além disso, estou mantendo arquivos JavaScript para registrar os códigos vistos em aula, quando eles existirem. Dessa forma, será possível testar o código pronto, caso você decida forkar este repositório.
 
-Últuma atualização: 13-06-2019
+Você pode começar acessando o [Sumário](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/sumario.md) de anotações.
+
+**Últuma atualização:** _13-06-2019_
