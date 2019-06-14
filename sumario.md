@@ -1,9 +1,10 @@
 # Sumário
 
 * Modulo 1 - sincronia de funções
-    * [NodeJS por Baixo dos Panos](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/01-node-por-baixo-dos-panos.md)
-    * [Trabalhando com Callbacks](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/02-trabalhando-com-callbacks.md)
 
+  * [NodeJS por Baixo dos Panos](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/01-node-por-baixo-dos-panos.md)
+  * [Trabalhando com Callbacks](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/02-trabalhando-com-callbacks.md)
+  * [Entendendo Promises](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/03-entendendo-promises.md)
 
 * Modulo 2 - manipulação de listas;
 * Modulo 3 - Introdução a desenvolvimento de testes automatizados;
