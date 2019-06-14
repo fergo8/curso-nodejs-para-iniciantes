@@ -9,7 +9,7 @@ O NodeJS é composto por um ecossistema que abrange componentes, tais como:
 
 ### Linguagem JavaScript
 
-JavaScript é a linguagem de programação que desenvolvedores precisam utilizar para o desenvolvimento de aplicações com a plataforma NodeJS. Basicamente, o JavaScript atua como porta de entrada para o ecossistema em questão, ou seja, a sequência de instruções criadas pelo desenvolvedor (source code) é escrita num arquivo de extensão .js para depois ser lida pelo motor V8.
+JavaScript é a linguagem de programação que desenvolvedores precisam utilizar para o desenvolvimento de aplicações com a plataforma NodeJS. Basicamente, o JavaScript atua como porta de entrada para o ecossistema em questão, ou seja, a sequência de instruções criadas pelo desenvolvedor (source code) é escrita num arquivo de extensão .js para depois ser lida pela Engine V8.
 
 ### Engine V8
 
