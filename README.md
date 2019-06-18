@@ -21,10 +21,10 @@ O curso é constituído dos módulos a seguir:
 
 ## Estrutura deste repositório
 
-Para facilitar a navegação entre anotações organizei todo o conteúdo em subdiretórios que seguem a mesma lógica dos módulos, ou seja, um subdiretório para cada módulo estudado. Em cada subpasta dessas haverá uma sequência de notas, uma para cada aula que eu julgar importante fazer anotações. Sendo assim, minhas anotações não estão seguindo exatamente o mesmo padrão do curso (uma nota por aula).
+Para facilitar a navegação entre anotações organizei todo o conteúdo em subdiretórios que seguem a mesma lógica dos módulos, ou seja, um subdiretório para cada módulo estudado. Em cada subpasta dessas haverá uma sequência de notas, uma para cada aula que eu julgar importante fazer anotações. Sendo assim, minhas anotações não estão seguindo exatamente o mesmo padrão do curso (não será uma nota por aula).
 
 Além disso, estou mantendo arquivos JavaScript para registrar os códigos vistos em aula, quando eles existirem. Dessa forma, será possível testar o código pronto, caso você decida forkar este repositório.
 
 Você pode começar acessando o [Sumário](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/sumario.md) de anotações.
 
-**Últuma atualização:** _13-06-2019_
+**Última atualização:** _18-06-2019_
