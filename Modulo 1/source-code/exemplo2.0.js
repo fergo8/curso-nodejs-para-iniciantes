@@ -1,7 +1,7 @@
 /*
-  Criar uma função chamada _passarCanais()_. A seguir, escrevemos uma outra
-  função chamada _ligarTV()_, que tem como parâmetro uma função de Callback.
-  Sendo assim, ao invocarmos a função _ligarTV()_, ela será executada e em
+  Criar uma função chamada passarCanais(). A seguir, escrevemos uma outra
+  função chamada ligarTV(), que tem como parâmetro uma função de Callback.
+  Sendo assim, ao invocarmos a função ligarTV(), ela será executada e em
   seguida, ao fim de sua execução, seu Callback passa a ser executado.
 */
 

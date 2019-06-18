@@ -1,5 +1,8 @@
 /*
-
+  Criar duas funções chamadas passarCanais() e ligarTV(), ambas retornando
+  instâncias do objeto Promise(). Em seguida, invocamos a função ligarTV().
+  Logo depois, ao fim da execução, a função passarCanais() passa a ser executada.
+  Por fim, a mensagem do console.log() será mostrada em tela.
 */
 
 // Implementação com Promise
