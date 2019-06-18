@@ -72,3 +72,13 @@ Além disso, note que a maneira de invocar as funções está bem diferente. Ago
 Primeiro _ligarTV()_, **em seguida** _passarCanais()_, **em seguida** _console.log(result)_.
 
 No fim da cadeia, temos um _**.catch()**_ que será executado apenas em caso de ocorrer algum erro. Esse _catch_ printará no console o erro ocorrido.
+
+## Convertendo Callback para Promise
+
+Para aprofundar mais nesse assunto de Promises, segue o exemplo descrito na página sobre Callbacks, dessa vez refeito utilizando Promises. Para facilitar a comparação, estou linkando ambas as versões abaixo:
+
+[Versão Callback](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/source-code/exemplo1.1.js) - [Versão Promise](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/source-code/exemplo1.2.js)
+
+Como vimos nesse texto, a versão com Promises é a mais adequada entre as duas, pois permite a manutenção do código de maneira mais simples (contanto que você tenha entendido o conceito de promise, claro).
+
+[Próxima Página]()
