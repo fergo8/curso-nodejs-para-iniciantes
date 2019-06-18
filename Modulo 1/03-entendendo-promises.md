@@ -81,4 +81,4 @@ Para aprofundar mais nesse assunto de Promises, segue o exemplo descrito na pág
 
 Como vimos nesse texto, a versão com Promises é a mais adequada entre as duas, pois permite a manutenção do código de maneira mais simples (contanto que você tenha entendido o conceito de promise, claro).
 
-[Próxima Página]()
+[Próxima Página :point_right:](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/04-palavras-chave-async-await.md)
