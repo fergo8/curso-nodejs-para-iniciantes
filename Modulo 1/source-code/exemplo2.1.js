@@ -1,17 +1,5 @@
 /*
-// Implementação com Callback
-function passarCanais(erro, tv) {
-    if(erro) return
-    console.log(`${tv} e passei os canais.`)
-}
 
-function ligarTV(callback) {
-    const tv = "Liguei a TV"
-    return callback(null, tv)
-}
-
-// Invocando ligarTV() com passarCanais() como callback
-ligarTV(passarCanais)
 */
 
 // Implementação com Promise
