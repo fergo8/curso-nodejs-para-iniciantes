@@ -6,6 +6,7 @@
   * [Trabalhando com Callbacks](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/02-trabalhando-com-callbacks.md)
   * [Entendendo Promises](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/03-entendendo-promises.md)
   * [Palavras-chave Async/Await](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/04-palavras-chave-async-await.md)
+  * [O que é EventEmitter?](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/05-o-que-e-eventemitter.md)
 
 * Modulo 2 - manipulação de listas;
 * Modulo 3 - Introdução a desenvolvimento de testes automatizados;
