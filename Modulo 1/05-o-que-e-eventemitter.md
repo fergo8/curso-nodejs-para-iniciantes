@@ -60,4 +60,4 @@ setInterval(() => {
 
 Encapsulando a execução do evento na função _setInterval()_ fará com que esse evento se repita em loop infinito.
 
-[Próxima Página :point_right:](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/01-tipos-de-loop-for.md)
+[Próxima Página :point_right:](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%202/01-tipos-de-loop-for.md)

@@ -9,6 +9,9 @@
   * [O que é EventEmitter?](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%201/05-o-que-e-eventemitter.md)
 
 * Modulo 2 - manipulação de listas;
+
+  * [Tipos de Loop For](https://github.com/fergo8/curso-nodejs-para-iniciantes/blob/master/Modulo%202/01-tipos-de-loop-for.md)
+
 * Modulo 3 - Introdução a desenvolvimento de testes automatizados;
 * Módulo 4 - Node.js além da Web - Criando ferramentas de linha de comando;
 * Módulo 5 - Bancos de Dados - Nosso projeto Multi-banco de dados;
