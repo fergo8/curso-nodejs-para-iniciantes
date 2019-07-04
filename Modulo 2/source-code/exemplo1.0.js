@@ -21,3 +21,9 @@ for (pokemon of pokemons) {
     console.log(pokemon.nome)
 }
 console.timeEnd("for-of")
+
+console.time("forEach")
+pokemons.forEach(pokemon => {
+    console.log(pokemon.nome)
+})
+console.timeEnd("forEach")
